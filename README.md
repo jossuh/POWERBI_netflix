@@ -1,6 +1,6 @@
 # Peliculas y series de Netflix
 
-![banner](bannernetflix.jpg)
+![banner](dashboard.png)
 
 ## Description
 
